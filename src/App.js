@@ -6,7 +6,7 @@ import './App.css';
 
 import Homepage from './pages/homepage/homepage.component'
 import ShopPage from './pages/shop/shop.component'
-import Checkout from './pages/checkout/chechout.component'
+import Checkout from './pages/checkout/checkout.component'
 
 import Header from './components/header/header.component'
 import Sign from './pages/sign/sign.component'
